@@ -1,7 +1,19 @@
 streamlit
-google-generativeai
 python-dotenv
-langchain
+requests
 PyPDF2
+
+
+# LangChain Core + Tools
+langchain
+langchain-community
+
+# Vector DB + Embeddings for Chat with PDF
 faiss-cpu
-langchain_google_genai
+sentence-transformers
+
+# For PDF Quiz Export
+reportlab
+
+#langchain_google_genai
+# google-generativeai
